@@ -1,5 +1,9 @@
+# RESIZABLE:
 ![!image](https://i.ibb.co/jg8c5sb/icon-res.png)
-
+# RESIZABLE (SIDE PANELS ON):
+![!image](https://i.ibb.co/Z1Ks6k1/resizable-sidepanels-on.png)
+# FIXED:
+![!image](https://i.ibb.co/CmZX2qM/fixed.png)
 
 # 2012 INTERFACE 2.2 (14-Jul-2020)
 
