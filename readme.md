@@ -1,6 +1,5 @@
 ![!image](https://i.ibb.co/jg8c5sb/icon-res.png)
 
-![!image](https://i.ibb.co/JzkSZF6/icon-fixed.png)
 
 # 2012 INTERFACE 2.2 (14-Jul-2020)
 
